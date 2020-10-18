@@ -1,0 +1,102 @@
+{
+   "Country": [
+	
+      {
+         "name":"USA",
+	 "states":[
+		    {
+		 	"name":"California",
+                        "cities":[
+					{
+					   "name":"San Jose"
+					},
+					{
+					   "name":"Sacramento"
+					},
+					{
+					   "name":"Los Angels"
+					}                         
+                                 ]
+		    },
+		    {
+			"name":"Texas",
+			"cities":[
+					{
+					   "name": "Houston"
+					},
+					{
+					   "name": "Austin"
+					},
+					{
+					   "name": "Dallas"
+					}	
+				]
+                    },
+                    {
+			"name":"New Mexico",
+			"cities":[
+					{
+					   "name": "Albuquerque"
+					},
+					{
+					   "name": "Santa Fe"
+					},
+					{
+					   "name": "Las Cruces"
+					}	
+				]
+                    }
+                   
+		  ]
+      },
+	
+      {
+         "name":"India",
+	 "states":[
+		    {
+		 	"name":"Maharashtra",
+                        "cities":[
+					{
+					   "name":"Mumbai"
+					},
+					{
+					   "name":"Pune"
+					},
+					{
+					   "name":"Nasik"
+					}                         
+                                 ]
+		    },
+		    {
+			"name":"Gujarat",
+			"cities":[
+					{
+					   "name": "Ahmedabad"
+					},
+					{
+					   "name": "Gandhi Nagar"
+					},
+					{
+					   "name": "Vadodara"
+					}	
+				]
+                    },
+                    {
+			"name":"Madhya Pradesh",
+			"cities":[
+					{
+					   "name": "Indore"
+					},
+					{
+					   "name": "Bhopal"
+					},
+					{
+					   "name": "Reeva"
+					}	
+				]
+                    }
+                   
+		  ]
+      }
+   ]
+}
