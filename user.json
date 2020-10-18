@@ -1,0 +1,14 @@
+{
+"user":[
+	{
+	"fullname": "John Doe"
+   	"email": "john.doe@example.com"
+	"designation": "Software Engineer"
+   	"DOB": "27/10/1989"
+   	"gender": "Male" 
+   	"country" "USA"
+   	"state": "California"
+   	"dist": "San Jose"			
+	}
+]
+}
